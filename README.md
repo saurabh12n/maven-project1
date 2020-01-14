@@ -6,7 +6,7 @@ This is my Maven project from MuleSoft's advanced development class
 
 1. Add the remote repository: `git remote add origin https://github.com/saurabh12n/maven-project1.git`
 
-2. Enter the repo: `cd maven-project1`
+2. Enter the repo: `cd maven-project`
 
 3. (Optional) Set your MULE_HOME env variable: `export MULE_HOME={locationOfMuleInstall}`
 
